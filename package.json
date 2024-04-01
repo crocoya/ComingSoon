@@ -1,15 +1,14 @@
 {
   "name": "coming-soon",
-  "desription": "Clean Coming Soon Template (Tailwind CSS, NextJs & HTML5)",
+  "desription": "KAMYIE NUTRITION",
   "version": "1.0.0",
   "keywords": [
-    "coming soon",
     "tailwind",
     "tailwindcss",
     "nextjs",
     "html"
   ],
-  "author": "Themeptation",
+  "author": "KAMYIE NUTRITION",
   "private": true,
   "scripts": {
     "dev": "next dev",

@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.hover-custom:hover {
+  text-decoration: underline;
+  color: #b9abcf; /* Utilisez votre couleur personnalisée */
+}
