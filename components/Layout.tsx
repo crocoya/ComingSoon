@@ -7,7 +7,8 @@ type Props = {
 };
 
 const Layout = ({ children, title = 'This is the default title' }: Props) => (
-  <div className='relative min-h-screen flex flex-col justify-center items-center bg-hero bg-cover'>
+  // remplacer le min-h-90vh par min-h-screen plus tard
+  <div className='relative min-h-90vh flex flex-col justify-center items-center bg-hero bg-cover'>
     <Head>
       <title>{title} | KAMYIE NUTRITION</title>
       <meta charSet='utf-8' />

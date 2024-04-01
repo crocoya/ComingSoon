@@ -6,3 +6,7 @@
   text-decoration: underline;
   color: #b9abcf; /* Utilisez votre couleur personnalisée */
 }
+
+.min-h-90vh {
+  min-height: 90vh;
+}
