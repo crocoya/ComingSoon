@@ -17,6 +17,7 @@ const Layout = ({ children, title = 'This is the default title' }: Props) => (
       <meta property='og:description' content='KAMYIE NUTRITION' />
       <meta property='og:url' content='https://kamyie-nutrition.com' />
       <meta property='og:type' content='website' />
+      <link rel='icon' href='/images/favicon.ico' />
     </Head>
     {children}
   </div>
